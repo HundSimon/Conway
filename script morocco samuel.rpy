@@ -2422,7 +2422,7 @@ translate Chinese day15_sam_raj_catchup_c8980850:
 translate Chinese day15_sam_raj_catchup_9f8f4b0f:
 
     # s "{i}That{/i} bastard. I had to tell him Raj were promised to an eastern bey. I said he'd kill this dog with a scimitar if he touched her one more time."
-    s "{i}那个{/i}混蛋。我要告诉他Raj已经许配给了一位东方总督。我说如果他再敢碰一下Raj总督的弯刀就不会留情。"
+    s "{i}那个{/i}混蛋。我只好跟他说Raj已经许配给了一位东方总督。我说要是他再敢碰她一下，总督就会用弯刀宰了他这条狗。"
 
 # game/script morocco samuel.rpy:1620
 translate Chinese day15_sam_raj_catchup_e09a8244:
@@ -2440,7 +2440,7 @@ translate Chinese day15_sam_raj_catchup_1f16f49f:
 translate Chinese day15_sam_raj_catchup_545363e5:
 
     # r "He did. So: is it the able seaman who looks like his brother?"
-    r "是的。那么，像他这样的的可以当水手吗？"
+    r "是的。那么，是那个长得像他兄弟的一等水手吗？"
 
 # game/script morocco samuel.rpy:1641
 translate Chinese day15_sam_raj_catchup_2587cb6e:
@@ -7036,7 +7036,7 @@ translate Chinese day15_sam_hotel_d3c35375:
 translate Chinese day15_sam_hotel_4ee34473:
 
     # "No: five trails, in the shape of her splayed fingers."
-    "不是五条印记，而是她展开手指的形状。"
+    "不，是五道印记，形状正如她张开的手指。"
 
 # game/script morocco samuel.rpy:4239
 translate Chinese day15_sam_hotel_ce204d28:

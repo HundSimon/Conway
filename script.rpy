@@ -1441,7 +1441,7 @@ translate Chinese firstchoice_done_7ceeea4b:
 translate Chinese firstchoice_done_8f4c1791:
 
     # "The four of you follow, although more slowly. Arthur's head is on a constant swivel, taking in the state of the ship around him."
-    "你们四人紧随其后，只是步伐更为缓慢。Arthur的脑袋不停地转动，打量着周围飞船的状况。"
+    "你们四人紧随其后，只是步伐更为缓慢。Arthur的脑袋不停地转动，打量着船上各处的状况。"
 
 # game/script.rpy:1927
 translate Chinese firstchoice_done_0f28ac0d:
@@ -1597,7 +1597,7 @@ translate Chinese firstchoice_done_3c73ed60:
 translate Chinese firstchoice_done_bba34e23:
 
     # a "Sheet in the jib!"
-    a "收起前桅帆！"
+    a "收紧前桅帆的帆脚索！"
 
 # game/script.rpy:2007
 translate Chinese firstchoice_done_16e22931:
@@ -1675,13 +1675,13 @@ translate Chinese firstchoice_done_26b95952:
 translate Chinese firstchoice_done_104bd539:
 
     # "The ship is moving perceptibly faster now. Arthur's eyes are still narrowed, his attention turned on something you can't yet perceive. But, as if receiving some sign, he raises his voice again."
-    "飞船此刻正明显加速。Arthur的眼睛依然微眯，注意力集中在某个你尚未察觉的事物上。但仿佛接收到某种信号般，他突然提高嗓音说道："
+    "船此刻正明显加速。Arthur的眼睛依然微眯，注意力集中在某个你尚未察觉的事物上。但仿佛接收到某种信号般，他突然提高嗓音说道："
 
 # game/script.rpy:2043
 translate Chinese firstchoice_done_e00990c8:
 
     # a "Samuel: haul away!"
-    a "Samuel：用力拉！"
+    a "Samuel，用力拉！"
 
 # game/script.rpy:2045
 translate Chinese firstchoice_done_71fec747:
@@ -1693,7 +1693,7 @@ translate Chinese firstchoice_done_71fec747:
 translate Chinese firstchoice_done_bf63086e:
 
     # "They're no longer pulling the ship, you realize: The Conway is moving under her own power. Samuel just needs to raise the anchor as you pass over it."
-    "你意识到，船头不再被小锚拖着了。Conway号正靠自身动力前行。Samuel，锚已经拉起，钳口越过。"
+    "你意识到，他们已经不是在把船往前拉了。Conway号正靠自身的动力前进，Samuel只需在船驶过锚的上方时把锚起上来。"
 
 # game/script.rpy:2051
 translate Chinese firstchoice_done_8ec71ae7:
@@ -1741,7 +1741,7 @@ translate Chinese firstchoice_done_b2c856c0_2:
 translate Chinese firstchoice_done_b4fb4fdf:
 
     # a "Report to Samuel. He'll be able to whip you into something like shape.{p}I hope."
-    a "向Samuel汇报。但愿他能把你调教得{p}像模像样。"
+    a "向Samuel报到。他能把你调教得有点样子。{p}但愿吧。"
 
 # game/script.rpy:2082
 translate Chinese firstchoice_done_b2c856c0_3:
@@ -1759,7 +1759,7 @@ translate Chinese firstchoice_done_06cb9a2d:
 translate Chinese firstchoice_done_e0485388:
 
     # a "Take care of your bags first. Both of you. You're... posts 36 and 37, if I remember."
-    a "先照看好你们的行李。你们两个。你们是……36号和37号岗位，如果你们还记得的话。"
+    a "先照看好你们的行李。你们两个。你们是……36号和37号岗位，如果我没记错的话。"
 
 # game/script.rpy:2099
 translate Chinese firstchoice_done_0aa463f5:
@@ -1777,7 +1777,7 @@ translate Chinese firstchoice_done_5d900710:
 translate Chinese firstchoice_done_828f8215:
 
     # "You wait, sensing it's expected of you. Or, at least, that if you left at once he'd just yell at you again."
-    "你等着，感觉这是意料之中的事。或者，至少，如果你等到有人先走再行动的话。"
+    "你在原地等着，感觉他希望你这么做。或者至少，要是你立刻就走，他准又要冲你吼了。"
 
 # game/script.rpy:2105
 translate Chinese firstchoice_done_4992235c:
@@ -1801,7 +1801,7 @@ translate Chinese firstchoice_done_8bbdddc1:
 translate Chinese firstchoice_done_cc52b8c9:
 
     # a "Mind the downhaul on the mizen stays'l—Samuel, haul away!"
-    a "注意后桅支索帆的下前角索——Samuel，用力拉！"
+    a "注意后桅支索帆的下拉索——Samuel，用力拉！"
 
 # game/script.rpy:2119
 translate Chinese firstchoice_done_71fec747_1:
@@ -1813,7 +1813,7 @@ translate Chinese firstchoice_done_71fec747_1:
 translate Chinese firstchoice_done_bf63086e_1:
 
     # "They're no longer pulling the ship, you realize: The Conway is moving under her own power. Samuel just needs to raise the anchor as you pass over it."
-    "你意识到，船头不再被小锚拖着了。Conway号正靠自身动力前行。Samuel，锚已经拉起，钳口越过。"
+    "你意识到，他们已经不是在把船往前拉了。Conway号正靠自身的动力前进，Samuel只需在船驶过锚的上方时把锚起上来。"
 
 # game/script.rpy:2125
 translate Chinese firstchoice_done_ef85c08c:

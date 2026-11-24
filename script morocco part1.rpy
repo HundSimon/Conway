@@ -1870,7 +1870,7 @@ translate Chinese day14_docking_6c4ae20a:
 translate Chinese day14_docking_90aa98c0:
 
     # a "Good lad. Aryte: this way, please, to the helm."
-    a "好小子。Aryte：请这边走，去舵轮那里。"
+    a "好小子。Aryte，请这边走，去舵轮那里。"
 
 # game/script morocco part1.rpy:961
 translate Chinese day14_docking_ab37abb7:
